@@ -1,0 +1,12 @@
+{
+  "name": "MobileFirst",
+  "displayName": "MobileFirst",
+  "expo": {
+    "name": "MobileFirst",
+    "slug": "MobileFirst",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
